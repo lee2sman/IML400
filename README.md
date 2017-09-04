@@ -206,3 +206,4 @@ The tools that we will be using in class are notated below. Alternative tools ar
 * Filezilla
 * Transmit
 
+*Thanks to friends and mentors Rhazes Spell, Lauren McCarthy, Chandler McWilliams, Hsinyu Lin and Paolo Pedercini for ongoing syllabus and teaching ideas, slides, and community.*
