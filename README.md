@@ -1,4 +1,5 @@
 # IML400
+## Creative Coding For The Web 💻
 
 ### University of Southern California Media Arts and Practice
 ### Fall 2016
