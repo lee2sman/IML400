@@ -1,4 +1,4 @@
-# Class 2 
+# Class 2
 
 * CSS Review - PDF
 * [Inline Block](http://dustwell.com/div-span-inline-block.html)
@@ -18,7 +18,7 @@
     * What will it look like?
     * Concept?
 
-    
+
 # DUE NEXT WEEK:
 * Finished Class Assignment Page (styled. You will add projects to this throughout the semester.)
 * Brainstorming & Wireframing of website for your fake institution
