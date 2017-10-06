@@ -10,7 +10,7 @@
 * [Caroline](http://storm.usc.edu/~cneubran/400/CN/index.html)
 * [Elyse](http://storm.usc.edu/~elysewan/fake_institution/index.html)
 * [Kyra](http://storm.usc.edu/~kyrabrow/iml400/DumbledoresArmy/home.html)
-* [Mara](http://storm.usc.edu/~mpleasure/foodies/index/index_foodies.html)
+* [Mara and Lindsay](http://storm.usc.edu/~mpleasure/foodies/index/index_foodies.html)
 * [Morgan](http://storm.usc.edu/~morganch/iml400/hauntedhotelweb/)
 * [Nicole](http://storm.usc.edu/~nblue/institutionalWebsiteEntry.html)
 * [Paulina](http://storm.usc.edu/~pordaz/fakeinstitution/iml400coffee.html)
