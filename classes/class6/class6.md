@@ -26,6 +26,6 @@
 * Web APIs
 
 # Homework
-* Read article - [Does Even Mark Zuckerberg Know What Facebook Is?](nymag.com/selectall/2017/10/does-even-mark-zuckerberg-know-what-facebook-is.html)
+* Read article - [Does Even Mark Zuckerberg Know What Facebook Is?](http://nymag.com/selectall/2017/10/does-even-mark-zuckerberg-know-what-facebook-is.html)
 * Watch Zero Days
 * Do W3Schools tutorials for Javascript [Objects](https://www.w3schools.com/js/js_objects.asp), [JSON](https://www.w3schools.com/js/js_json.asp)
