@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Fira Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fira Sans Regular'), local('FiraSans-Regular'), url('fira.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+body {
+    font-family: 'Lora', serif;
+    font-size: 2em;
+   background: black;
+   background-image: url("assets/bg.png");
+}
+
+img {
+    position: absolute;
+}
+
+p {
+    position: relative;
+    color: #d1d1e0;
+}
