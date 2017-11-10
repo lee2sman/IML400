@@ -34,8 +34,9 @@ On 11/9 you will show an in-progress version of your site.
 
 ## Due
 
-**Nov 21**
+**Nov 22**
 
 # Resources
 
+* [LOTS OF REALLY GOOD TUTORIALS ON IMAGE GALLERIES AND SLIDESHOWS](https://www.w3schools.com/howto/howto_js_slideshow.asp) on W3Schools
 * [How To Design A Portfolio](http://markboulton.co.uk/journal/how-to-design-a-portfolio) 
