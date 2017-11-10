@@ -12,6 +12,7 @@
 * [List of top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 * Some hosts: [Dreamhost](https://www.dreamhost.com/), [Bluehost](https://www.bluehost.com/), [1and1](https://www.1and1.com/) 
 4. Work in-class on portfolio
+* [Lots of slideshow and image gallery tutorials on W3schools](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
 # Homework
 * Work on your portfolio! Due on 11/22.
