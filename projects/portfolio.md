@@ -34,7 +34,7 @@ On 11/9 you will show an in-progress version of your site.
 
 ## Due
 
-**Nov 21**
+**Nov 22**
 
 # Resources
 
