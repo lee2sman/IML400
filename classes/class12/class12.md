@@ -9,6 +9,8 @@
 	* Create a sitemap and organizational plan.
 	* Begin sketching your pages
 3. Hosting / Domains
+* [List of top-level domains](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+* Some hosts: [Dreamhost](https://www.dreamhost.com/), [Bluehost](https://www.bluehost.com/), [1and1](https://www.1and1.com/) 
 4. Work in-class on portfolio
 
 # Homework
