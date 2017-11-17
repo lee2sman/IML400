@@ -1,4 +1,4 @@
-# Class 13 
+# Class 13
 
 # In-class
 * Discussion of [Something Is Wrong On The Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)  
@@ -8,3 +8,9 @@
 
 # Homework
 * Finish [portfolio](../../projects/portfolio.md)!
+
+# Resources for Mobile-Responsive Design
+* [Designing For The Best Experience For All Users](https://www.w3schools.com/Css/css_rwd_intro.asp)
+* [Creating your own responsive design with simple CSS](https://www.w3schools.com/Css/css_responsive_intro.asp)
+* [Responsive design with bootstrap](https://www.w3schools.com/Css/trycss_rwd_bootstrap.htm)  
+* [Viewport Units](https://css-tricks.com/fun-viewport-units/)
