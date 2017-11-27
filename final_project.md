@@ -1,6 +1,6 @@
 # Final Project
 
-This semester we have built websites for our class, (false) institutional websites, and an online portfolio. These sites have been collections of material: images, galleries, or institutional pages with lots of choices of what to navigate. They give a user multiple modes of choice and allow exploration. Now we are going to go small and concentrate on creating a website for a single project or idea that we want to deliver to the world. This could be something you've made for another class, or a site for a movie, game, performance, documentary or other project of yours, or it could be a speculative work.
+This semester we have built websites for our class, (false) institutional websites, and an online portfolio. These sites have been collections of material: images, galleries, or institutional pages with lots of choices of what to navigate. They give a user multiple modes of entry and allow exploration. Now we are going to go small and concentrate on creating a website for a single project or idea that we want to deliver to the world. This could be something you've made for another class, or a site for a movie, game, performance, documentary or other project of yours, or it could be a speculative work.
 
 We have had multiple discussions on contemporary issues relating to the web today, from companies tracking users' every action, to the loss of privacy and the inability of many users to resist the compulsion to check their various feeds. How can you acknowledge this world and create a new intimacy with your website's visitors?
 
@@ -22,7 +22,7 @@ For this assignment you will make a mobile-responsive site. The goal is to make 
 * [Follower](http://follower.today) - art/performance project and commentary
 * [Binky](http://binky.app) - App/Artwork
 * [Ai scry](http://u1f52e.net) - App/Conceptual project
-* [somebody app](http://somebodyapp.com) - App/art project
+* [somebody app](http://somebodyapp.com) - App/performance project?
 * [Claridryl](http://www.adultswim.com/promotions/claridryl/) - site to accompany a movie
 * [NoPhone](http://thenophone.com) / Product & art project
 
