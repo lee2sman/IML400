@@ -23,6 +23,6 @@ For this assignment you will make a mobile-responsive site. The goal is to make 
 * [Binky](http://binky.app) - App/Artwork
 * [Ai scry](http://u1f52e.net) - App/Conceptual project
 * [somebody app](http://somebodyapp.com) - App/performance project?
-* [Claridryl](http://www.adultswim.com/promotions/claridryl/) - site to accompany a movie
+* [Claridryl](http://www.adultswim.com/promotions/claridryl/) - site to accompany a movie. (click click click on the house.....)
 * [NoPhone](http://thenophone.com) / Product & art project
 
