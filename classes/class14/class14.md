@@ -6,6 +6,7 @@
 # Final Project
 * [Info](../../final_project.md)
 * Studio work-in-progress check-in 
+* [W3CSS framework for responsive design](https://www.w3schools.com/css/css_rwd_frameworks.asp)
 
 # Design Website links
 * [Siteinspire](https://www.siteinspire.com)
