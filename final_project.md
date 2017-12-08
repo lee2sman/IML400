@@ -14,7 +14,7 @@ For this assignment you will make a mobile-responsive site. The goal is to make 
 
 # Due
 * Projects presentations will be in class on Thursday December 7
-* Final project sites will be due Monday January 11 uploaded by noon
+* Final project sites will be due Monday **December 11** uploaded by noon
 
 # Examples
 
