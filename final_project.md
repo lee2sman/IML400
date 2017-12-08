@@ -34,6 +34,6 @@ For this assignment you will make a mobile-responsive site. The goal is to make 
 * [Sylvie](http://storm.usc.edu/~howton/iml400/work/waiting-room/index.html) 
 * [Elyse](http://storm.usc.edu/~elysewan/thesis_website/) 
 * [Kyra](http://storm.usc.edu/~kyrabrow/iml400/final/index.html)
-* [Audey](http://storm.usc.edu/~audeyshe/IML400/portfoliowebsite/index.html)
+* [Audey](storm.usc.edu/~audeyshe/IML400/final/book.html)
 * [Morgan](http://storm.usc.edu/~morganch/modernlovedictionary/index.html)
 * [Nicole](http://nicoleblue.design/finalProject/1.html)
